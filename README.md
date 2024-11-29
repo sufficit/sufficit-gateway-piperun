@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://raw.githubusercontent.com/sufficit/sufficit-gateway-piperun/main/icon.png" alt="PipeRun" width="100" />	
+	<img src="https://raw.githubusercontent.com/sufficit/sufficit-gateway-piperun/main/icon.jpeg" alt="PipeRun" width="100" />	
 	<p align="center">Projeto de integração com o software de CRM PipeRun</p>
 </p>
 <hr />
