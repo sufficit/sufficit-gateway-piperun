@@ -1,6 +1,9 @@
 <p align="center">
 	<img src="https://raw.githubusercontent.com/sufficit/sufficit-gateway-piperun/main/icon.jpeg" alt="PipeRun" width="100" />	
 	<p align="center">Projeto de integração com o software de CRM PipeRun</p>
+
+> **Worktrees (padrão Sufficit):** toda árvore de trabalho deste projeto (humanos ou agentes de IA) deve ser criada dentro da pasta do próprio projeto: `git worktree add .worktrees/<nome>`. A pasta `.worktrees/` é ignorada pelo git (`.gitignore` → `**/.worktrees/`) e nunca deve ser versionada ou criada fora da raiz do repositório.
+
 </p>
 <hr />
 
